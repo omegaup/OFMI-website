@@ -21,7 +21,6 @@ minima:
   date_format: "%Y-%m-%d %H:%M"
 
 header_pages:
- - convocatoria.md
  - reglamento.md
  - conducta.md
 
