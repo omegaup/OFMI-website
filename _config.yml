@@ -1,0 +1,33 @@
+title: Olimpiada Femenil Mexicana de Informática
+author: omegaUp
+email: ofmi@omegaup.com
+description: Página oficial de la Olimpiada Femenil Mexicana de Informática.
+
+lang: es
+
+# social links
+twitter_username: omegaup
+github_username: omegaup
+facebook_username: omegaup
+linkedin_username: omegaup
+
+show_excerpts: false
+
+permalink: pretty
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%Y-%m-%d %H:%M"
+
+header_pages:
+ - convocatoria.md
+ - reglamento.md
+ - conducta.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
