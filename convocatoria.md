@@ -15,7 +15,7 @@ El objetivo de la OFMI es promover el interés en la informática entre las muje
 * Tener nacionalidad mexicana y/o radicar en México y estar dispuesta a representar internacionalmente a México.
 * Estar inscrita en una institución de nivel básico o medio superior con una carga curricular completa en el sistema educativo mexicano.
 * Estar cursando como máximo nivel medio superior durante marzo de 2022.
-* Registrarse en https://forms.gle/sB38GzmWKKVmZuFj8
+* Registrarse en [https://forms.gle/sB38GzmWKKVmZuFj8](https://forms.gle/sB38GzmWKKVmZuFj8).
 * Leer y cumplir con el [reglamento oficial](../reglamento).
 
 ## Etapas de la OFMI
@@ -37,5 +37,5 @@ Te recomendamos que hagas los siguientes cursos que encuentras en omegaUp:
 
 Adicionalmente, te invitamos a unirte al [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG) para que puedas platicar con los entrenadores y ex participantes para que te ayuden con dudas que puedas tener. También puedes escribir al correo [ofmi@omegaup.com](mailto:ofmi@omegaup.com).
 
-Atentamente
+Atentamente  
 Departamento de Concursos de Programación de omegaUp
