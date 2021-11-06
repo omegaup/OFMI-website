@@ -1,8 +1,7 @@
 ---
-layout: home
+layout: page
+title: Convocatoria a la 1a Olimpiada Femenil Mexicana de Informática
 ---
-
-# Convocatoria a la 1a Olimpiada Femenil Mexicana de Informática
 
 OmegaUp convoca a estudiantes inscritas en nivel básico y medio superior a participar en la 1a Olimpiada Femenil Mexicana de Informática (OFMI) que se llevará a cabo en línea el sábado 22 y domingo 23 de enero de 2022.
 
