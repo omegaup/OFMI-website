@@ -17,7 +17,7 @@ El objetivo de la OFMI es promover el interés en la informática entre las muje
 * Estar inscrita en una institución de nivel básico o medio superior con una carga curricular completa en el sistema educativo mexicano.
 * Estar cursando como máximo nivel medio superior durante marzo de 2022.
 * Registrarse en [https://forms.gle/sB38GzmWKKVmZuFj8](https://forms.gle/sB38GzmWKKVmZuFj8).
-* Leer y cumplir con el [reglamento oficial](../reglamento).
+* Leer y cumplir con el [reglamento oficial](reglamento).
 
 ## Etapas de la OFMI
 
