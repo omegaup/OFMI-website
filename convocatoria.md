@@ -29,8 +29,8 @@ El objetivo de la OFMI es promover el interés en la informática entre las muje
 Te recomendamos que hagas los siguientes cursos que encuentras en omegaUp:
 
 * [Introducción a C++](https://omegaup.com/course/introduccion_a_cpp/)
-* [Introducción a Algoritmos](https://omegaup.com/course/introduccion_a_algoritmos/)
-* [Introducción a Algoritmos II](https://omegaup.com/course/introduccion_a_algoritmos_ii/)
+* [Introducción a Algoritmos - Parte I](https://omegaup.com/course/introduccion_a_algoritmos/)
+* [Introducción a Algoritmos - Parte II](https://omegaup.com/course/introduccion_a_algoritmos_ii/)
 * [Curso OMI](https://omegaup.com/course/Curso-OMI/)
 
 ## Dudas
