@@ -13,7 +13,7 @@ El objetivo de la OFMI es promover el interés en la informática entre las muje
 
 * Ser mujer o un género minoritario.
 * Haber nacido después del 1 de julio de 2003.
-* Tener nacionalidad mexicana y/o radicar en México y estar dispuesta a representar internacionalmente a México.
+* Tener nacionalidad mexicana o radicar en México y estar dispuesta a representar internacionalmente a México.
 * Estar inscrita en una institución de nivel básico o medio superior con una carga curricular completa en el sistema educativo mexicano.
 * Estar cursando como máximo nivel medio superior durante marzo de 2022.
 * Registrarse en [la página de registro](registro).
