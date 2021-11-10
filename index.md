@@ -16,12 +16,12 @@ El objetivo de la OFMI es promover el interés en la informática entre las muje
 * Tener nacionalidad mexicana y/o radicar en México y estar dispuesta a representar internacionalmente a México.
 * Estar inscrita en una institución de nivel básico o medio superior con una carga curricular completa en el sistema educativo mexicano.
 * Estar cursando como máximo nivel medio superior durante marzo de 2022.
-* Registrarse en [https://forms.gle/sB38GzmWKKVmZuFj8](https://forms.gle/sB38GzmWKKVmZuFj8).
+* Registrarse en [la página de registro](registro).
 * Leer y cumplir con el [reglamento oficial](reglamento).
 
 ## Etapas de la OFMI
 
-* **Registro**: Las concursantes deberán inscribirse usando la [forma de registro](https://forms.gle/sB38GzmWKKVmZuFj8) a más tardar el 2 de enero de 2022.
+* **Registro**: Las concursantes deberán inscribirse usando el [formulario de registro](registro) a más tardar el 2 de enero de 2022.
 * **Examen nacional por internet**: Las concursantes deberán presentar los exámenes el 22 y 23 de enero de 2022. Cada examen empieza a las 11:00 am y termina a las 16:00 (hora del centro del país).
 * **Exámenes y preparación**: Las 30 concursantes con las puntuaciones más altas participarán en una serie de entrenamientos y exámenes entre enero y mayo para seleccionar a las 4 que representarán a México en la 2a EGOI. (Máximo 3 por estado)
 
