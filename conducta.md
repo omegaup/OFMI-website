@@ -3,7 +3,7 @@ title: Código de Conducta
 navtitle: Código de Conducta
 ---
 
-(Basado en el código de conducta de la [Olimpiada Internacional de Informática](https://ioinformatics.org/page/code-of-conduct/50))
+(Basado en el código de conducta de la [Olimpiada Internacional de Informática](https://ioinformatics.org/page/code-of-conduct/50).)
 
 La OFMI es una comunidad que otorga una oportunidad única de interactuar con una diversidad de personas, incluyendo diferentes culturas, etnicidades, religiones, capacidades, identidades de género, y orientaciones sexuales. La comunidad de la OFMI apoya la diversidad y promueve el respeto y entendimiento mutuo.
             
