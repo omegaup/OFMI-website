@@ -6,13 +6,6 @@ La 1a edición de la OFMI se llevará a cabo en línea.
 
 La convocatoria de la OFMI está abierta para cualquier mujer o persona no binaria que durante enero-junio 2022 esté inscrita en alguna escuela estudiando cualquier grado de primaria, secundaria o bachillerato y que radique en México.
 
-### Sesión informativa
-
-El comité organizador dará una sesión informativa para resolver dudas de las participantes y brindar la orientación necesaria. La asistencia no es obligatoria pero sí recomendable. La sesión será por videoconferencia en dos fechas distintas (se verá la misma información en ambas sesiones, no es necesario asistir a las dos) y cada una tiene una duración de 2 horas.
-
-* domingo 5 de diciembre 11:00 am (horario del centro del país)
-* sábado 11 de diciembre 5:00 pm (horario del centro del país)
-
 ### Competencia
 
 Habrá dos días de competencia. Cada día las participantes presentarán un examen de 5 horas para resolver cuatro problemas. La plataforma que se usará en la competencia es

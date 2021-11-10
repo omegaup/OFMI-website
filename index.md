@@ -38,5 +38,12 @@ Te recomendamos que hagas los siguientes cursos que encuentras en omegaUp:
 
 Adicionalmente, te invitamos a unirte al [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG) para que puedas platicar con los entrenadores y ex participantes para que te ayuden con dudas que puedas tener. También puedes escribir al correo [ofmi@omegaup.com](mailto:ofmi@omegaup.com).
 
+### Sesión informativa
+
+El comité organizador dará una sesión informativa para resolver dudas de las participantes y brindar la orientación necesaria. La asistencia no es obligatoria pero sí recomendable. La sesión será por videoconferencia en dos fechas distintas (se verá la misma información en ambas sesiones, no es necesario asistir a las dos) y cada una tiene una duración de 2 horas.
+
+* domingo 5 de diciembre 11:00 am (horario del centro del país)
+* sábado 11 de diciembre 5:00 pm (horario del centro del país)
+
 Atentamente  
 Departamento de Concursos de Programación de omegaUp
