@@ -40,4 +40,7 @@ Las participantes deben llenar su propio registro.
 
 Puedes escribirnos al correo [ofmi@omegaup.com](mailto:ofmi@omegaup.com) o en el [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG).
 
-También te recomendamos que te unas a una de las sesiones informativas que habrá el 5 y el 11 de diciembre.
+También te recomendamos que te unas a una de las sesiones informativas:
+
+* [domingo 5 de diciembre 11:00 am (horario del centro del país) vía zoom](https://zoom.us/j/98969742539?pwd=MEl6ZVRzNzkrUjhpNk85NGowbGhpdz09)
+* [sábado 11 de diciembre 5:00 pm (horario del centro del país) vía zoom](https://zoom.us/j/97862872695?pwd=R1JZMlNLTGVPUDJqcjgrTks1NTdudz09)

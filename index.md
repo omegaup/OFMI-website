@@ -42,8 +42,8 @@ Adicionalmente, te invitamos a unirte al [servidor de Discord de omegaUp](https:
 
 El comité organizador dará una sesión informativa para resolver dudas de las participantes y brindar la orientación necesaria. La asistencia no es obligatoria pero sí recomendable. La sesión será por videoconferencia en dos fechas distintas (se verá la misma información en ambas sesiones, no es necesario asistir a las dos) y cada una tiene una duración de 2 horas.
 
-* domingo 5 de diciembre 11:00 am (horario del centro del país) [vía zoom](https://zoom.us/j/98969742539?pwd=MEl6ZVRzNzkrUjhpNk85NGowbGhpdz09)
-* sábado 11 de diciembre 5:00 pm (horario del centro del país) [vía zoom](https://zoom.us/j/97862872695?pwd=R1JZMlNLTGVPUDJqcjgrTks1NTdudz09)
+* [domingo 5 de diciembre 11:00 am (horario del centro del país) vía zoom](https://zoom.us/j/98969742539?pwd=MEl6ZVRzNzkrUjhpNk85NGowbGhpdz09)
+* [sábado 11 de diciembre 5:00 pm (horario del centro del país) vía zoom](https://zoom.us/j/97862872695?pwd=R1JZMlNLTGVPUDJqcjgrTks1NTdudz09)
 
 Atentamente  
 Departamento de Concursos de Programación de omegaUp
