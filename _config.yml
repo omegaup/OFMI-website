@@ -23,6 +23,7 @@ header_pages:
  - registro.md
  - reglamento.md
  - conducta.md
+ - faq.md
 
 # Build settings
 theme: minima

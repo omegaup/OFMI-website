@@ -4,7 +4,7 @@ navtitle: Reglamento
 ---
 La 1a edición de la OFMI se llevará a cabo en línea. 
 
-La convocatoria de la OFMI está abierta para cualquier mujer o persona no binaria que durante enero-junio 2022 esté inscrita en alguna escuela estudiando cualquier grado de primaria, secundaria o bachillerato y que radique en México.
+La convocatoria de la OFMI está abierta para cualquier mujer o persona no binaria mexicana o que radique en México y que durante enero-junio 2022 esté inscrita en alguna escuela estudiando cualquier grado de primaria, secundaria o bachillerato.
 
 ### Competencia
 
