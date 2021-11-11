@@ -19,7 +19,7 @@ La convocatoria de la OFMI está abierta para cualquier mujer o persona no binar
 
 Para participar en el concurso sí tienes que saber programar. Si todavía no sabes, es un buen momento para empezar. 
 
-Si no sabes por dónde empezar, puedes entrar al [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG) y en el canal de #general-ofmi donde mucha gente está dispuesta a apoyarte en este proceso.
+Si no sabes por dónde empezar, puedes entrar al [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG). En el canal #general-ofmi mucha gente está dispuesta a apoyarte en este proceso.
 
 También te recomendamos que hagas los siguientes cursos que encuentras en omegaUp:
 
@@ -34,7 +34,7 @@ No hay límite de participantes por estado.
 
 ## ¿Quién debe llenar el registro?
 
-Las participantes son las que deben llenar su registro.
+Las participantes deben llenar su propio registro.
 
 ## ¿Dónde puedo contactarlos si tengo más dudas?
 
