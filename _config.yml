@@ -32,3 +32,5 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+google_analytics: G-3D2YB1702J
