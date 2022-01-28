@@ -25,7 +25,7 @@ header_pages:
  - reglamento.md
  - conducta.md
  - faq.md
- - call-for-tasks.md
+ - resultados.md
 
 # Build settings
 theme: minima
