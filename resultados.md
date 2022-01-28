@@ -11,7 +11,7 @@ navtitle: Resultados
 3 |	OFMI2022:BCN-06 |	Aylin Gandara Ibáñez | 214 | 322 | 536 | Oro |
 4 |	OFMI2022:MOR-03 |	Romina Nájera Fuentes | 220 | 312 | 532 | Oro |
 5 |	OFMI2022:VER-08 |	Karen Sosa Jácome | 206 | 174 | 380 | Oro |
-6 |	OFMI2022:GUA-01 |	Abigail Zamarripa López | 202 | 158 | 360 | Plata |
+6 |	OFMI2022:GUA-01 |	Abigail Zamarripa López | 202 | 158 | 360 | Oro |
 7 |	OFMI2022:VER-04 |	Estefanía Antonio Villaseca | 105 | 216 | 321 | Plata |
 7 |	OFMI2022:AGU-09 |	Uma Salcedo Reyes | 200 | 121 | 321 | Plata |
 9 |	OFMI2022:PUE-01 |	Lorena Elizabeth Olmedo Tenorio | 203 | 116 | 319 | Plata |
