@@ -3,3 +3,24 @@
 ---
 
 @import "minima";
+
+
+.call-to-action {
+    margin: 0 10px;
+    font-size: 18px;
+    height: 38.4px;
+    line-height: 38.4px;
+    box-shadow: none;
+    -webkit-transition-property: background;
+    transition-property: background;
+    -webkit-transition-duration: .3s;
+    transition-duration: .3s;
+    background: #00A1CB;
+    color: #FFF;
+    text-shadow: none;
+    border: none;
+    border-radius: 3px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
