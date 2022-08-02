@@ -8,21 +8,7 @@ Este año ya tenemos a la delegación mexicana que representará al país y viaj
 
 A continuación presentamos a las 4 competidoras y 2 líderes del equipo de este año.
 
-## Participantes
-
-| ![](assets/egoi2022/cynthia.png) | ![](assets/egoi2022/sarahy.png) |
-|:----:|:----:|
-| **Cynthia Naely Lopez Estrada** <br> 17 años <br> Guanajuato | **Fernanda Sarahy Mancilla Núñez** <br> 18 años <br> Guanajuato |
-
-| ![](assets/egoi2022/abi.png) | ![](assets/egoi2022/romina.png) |
-|:----:|:----:|
-| **Abigail Zamarripa López** <br> 18 años <br> Guanajuato | **Romina Nájera Fuentes** <br> 17 años <br> Morelos |
-
-## Líderes
-
-| ![](assets/egoi2022/andrea.png) | ![](assets/egoi2022/juanito.png) |
-|:----:|:----:|
-| **Andrea Santillana Fernández** | **Juan Carlos Sigler Priego** |
+![](assets/egoi2022.png)
 
 ## Acerca de la EGOI
 
