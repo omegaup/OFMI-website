@@ -6,7 +6,7 @@ navtitle: EGOI 2022
 
 Ya tenemos a la delegación que representará este año a México en Turquía, del 16 al 23 de octubre en la segunda Olimpiada Europea Femenina de Informática 2022 ([EGOI 2022](https://ubilo.tubitak.gov.tr/egoi2022/)).
 
-A continuación presentamos a las 4 competidoras y 2 líderes del equipo de este año.
+Conoce a las 4 competidoras
 
 ![](assets/egoi2022.png)
 
