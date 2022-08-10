@@ -14,7 +14,7 @@ a la OFMI:
 
 | PayPal | Transferencia Bancaria |
 | :----: | :--------------------: |
-| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=JCP586PA5UQGW) | Banco: **BBVA**<br/>A nombre de: **omegaUp AC**<br/>CLABE: **012180001190808993**
+| [![paypal](https://www.paypalobjects.com/es_XC/MX/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=JCP586PA5UQGW) | Banco: **BBVA**<br/>A nombre de: **omegaUp AC**<br/>CLABE: **012180001190808993**
 
 [omegaUp](https://omegaup.org) es una organización 501(c)(3) sin fines de lucro en Estados
 Unidos, y una organización civil sin fines de lucro en México. Si necesitas un recibo de
