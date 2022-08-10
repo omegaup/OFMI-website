@@ -1,8 +1,9 @@
 ---
 title: Reglamento de la 1a Olimpiada Femenil Mexicana de Informática
 navtitle: Reglamento
+layout: page
 ---
-La 1a edición de la OFMI se llevará a cabo en línea. 
+La 1a edición de la OFMI se llevará a cabo en línea.
 
 La convocatoria de la OFMI está abierta para cualquier mujer o persona no binaria mexicana o que radique en México y que durante enero-junio 2022 esté inscrita en alguna escuela estudiando cualquier grado de primaria, secundaria o bachillerato.
 
@@ -86,7 +87,7 @@ Para cada envío, omegaUp emitirá un veredicto que puede ser:
 * **CE – Compilation error**: Tu programa no pudo ser compilado. omegaUp utiliza gcc y g++ en Linux, así que podría haber incompatibilidades entre tu ambiente de desarrollo y el que usamos nosotros. Si haces click en el botón de “Ver” el código, verás tu código seguido del error del compilador.
 * **JE – Judge error**: Un error interno de omegaUp. Esto no debería pasar nunca, pero si te sale, alguno de los jueces ya lo vio y lo resolverá lo más rápido posible, así que no es necesario que lo reportes. Intenta otro problema mientras tanto, y ten por seguro que no serás penalizado por ese envío, porque no fue tu culpa.
 
-Los puntos que refleja la plataforma son preliminares. En ocasiones podrá haber reevaluaciones, derivado de alguna apelación o si se detecta algún error. 
+Los puntos que refleja la plataforma son preliminares. En ocasiones podrá haber reevaluaciones, derivado de alguna apelación o si se detecta algún error.
 
 En caso de existir reevaluaciones, las participantes serán informadas en el momento.
 
@@ -102,7 +103,7 @@ Cuando el contador llegue a 0, termina el tiempo para resolver el examen y la pl
 
 ### Descalificación
 
-Durante la competencia, las participantes: 
+Durante la competencia, las participantes:
 
 * no deberán iniciar sesión en alguna otra cuenta de omegaUp que no sea la asignada para el concurso;
 * no deberán consultar material que no esté explícitamente mencionado en la sección *Material permitido durante la competencia*;

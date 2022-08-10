@@ -4,9 +4,9 @@
 
 @import "minima";
 
-
 .call-to-action {
-    margin: 0 10px;
+    margin: 13px 25px;
+    padding: 0 10px;
     font-size: 18px;
     height: 38.4px;
     line-height: 38.4px;
@@ -15,7 +15,7 @@
     transition-property: background;
     -webkit-transition-duration: .3s;
     transition-duration: .3s;
-    background: #00A1CB;
+    background: #a4ebfc;
     color: #FFF;
     text-shadow: none;
     border: none;
@@ -24,6 +24,15 @@
     vertical-align: middle;
     text-decoration: none;
     text-align: center;
-    width: 170px;
 }
 
+.site-title {
+    img {
+        height: 1.5em;
+        padding: .5em 0;
+    }
+
+    a {
+        line-height: 1em;
+    }
+}

@@ -244,17 +244,6 @@ table {
   color: lighten($text-color, 18%);
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
-  tr {
-    &:nth-child(-n+6) {
-      background-color: lighten($gold-color, $amount: 20)
-    }
-    &:nth-child(n+7):nth-child(-n+15) {
-      background-color: lighten($silver-color, $amount: 5)
-    }
-    &:nth-child(n+16):nth-child(-n+30) {
-      background-color: lighten($bronze-color, $amount: 15)
-    }
-  }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }

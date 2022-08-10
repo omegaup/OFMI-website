@@ -20,12 +20,12 @@ minima:
   date_format: "%Y-%m-%d %H:%M"
 
 header_pages:
- - convocatoria.md
- - registro.md
- - reglamento.md
- - conducta.md
+ - dona.md
  - faq.md
  - resultados.md
+ - conducta.md
+ - reglamento.md
+ - convocatoria.md
 
 # Build settings
 theme: minima

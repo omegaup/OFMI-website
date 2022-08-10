@@ -4,7 +4,9 @@ title: Resultados de la 1a Olimpiada Femenil Mexicana de Informática
 navtitle: Resultados
 ---
 
-| Lugar      | Clave | Nombre | total día 1 | total día 2 | Total | Medalla |
+<link rel="stylesheet" href="/assets/css/results.css">
+
+| Lugar      | Clave | Nombre | Día 1 | Día 2 | Total | Medalla |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 1 |	OFMI2022:GUA-04	| Cynthia Naely Lopez Estrada | 300 | 400 | 700 | Oro |
 2 |	OFMI2022:GUA-10 |	Fernanda Sarahy Mancilla Núñez | 297 | 374 | 671 | Oro |

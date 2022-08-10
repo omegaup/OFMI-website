@@ -1,6 +1,7 @@
 ---
 title: Propuestas de problemas
 navtitle: Propuestas de problemas
+layout: page
 ---
 Si tienes alguna idea que pudiera convertirse en problema para el concurso, puedes enviarla hasta el 12 de diciembre (puede ser más de una). En caso de que alguna de tus ideas sea seleccionada se te informará.
 
@@ -13,6 +14,6 @@ Puedes revisar los exámenes de años anteriores de la OMI para tener una idea d
 
 En este momento no es necesario tener descripciones finales ni casos de prueba. Solo necesitamos una idea general del problema.
 
-Para proponer un problema debes llenar [este formulario](https://forms.gle/uPsuxgoWHSMaAVTV9) por cada problema que quieras que consideremos. 
+Para proponer un problema debes llenar [este formulario](https://forms.gle/uPsuxgoWHSMaAVTV9) por cada problema que quieras que consideremos.
 
 Si tienes cualquier duda, escríbenos a [ofmi@omegaup.com](mailto:ofmi@omegaup.com) o en el [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG).

@@ -1,14 +1,20 @@
 ---
 layout: page
-title: ¡Rumbo a la EGOI 2022!
+title: Olimpiada Femenil Mexicana de Informática
 navtitle: EGOI 2022
 ---
 
-Ya tenemos a la delegación que representará este año a México en Turquía, del 16 al 23 de octubre en la segunda Olimpiada Europea Femenina de Informática 2022 ([EGOI 2022](https://ubilo.tubitak.gov.tr/egoi2022/)).
+La OFMI es un concurso nacional para mujeres y personas no binarias que tengan interés en aprender a programar para resolver problemas lógico-matemáticos.
 
-Conoce a las 4 competidoras
+La primera OFMI tuvo lugar a principios de 2022, seguido de un proceso de entrenamiento y selección para determinar a la delegación mexicana para la
+[Olimpiada Femenil Europea de Informática](https://egoi.ch/).
 
-![](assets/egoi2022.png)
+# ¡Rumbo a la EGOI 2022!
+
+Ya tenemos a la delegación que representará este año a México en Turquía, del 16 al 23 de octubre en la [EGOI 2022](https://ubilo.tubitak.gov.tr/egoi2022/).
+Conoce a las 4 competidoras:
+
+![Delegación Mexicana a la Segunda Olimpiada Femenil Europea en Informática, a celebrarse en Turquía en 2022.](assets/egoi2022.png)
 
 ## Acerca de la EGOI
 
