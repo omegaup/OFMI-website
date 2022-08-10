@@ -7,7 +7,7 @@ navtitle: EGOI 2022
 La OFMI es un concurso nacional para mujeres y personas no binarias que tengan interés en aprender a programar para resolver problemas lógico-matemáticos.
 
 La primera OFMI tuvo lugar a principios de 2022, seguido de un proceso de entrenamiento y selección para determinar a la delegación mexicana para la
-[Olimpiada Femenil Europea de Informática](https://egoi.ch/).
+[Olimpiada Femenil Europea de Informática (EGOI)](https://egoi.ch/).
 
 # ¡Rumbo a la EGOI 2022!
 
