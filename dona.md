@@ -7,7 +7,7 @@ navtitle: Donaciones
 La OFMI es organizada por voluntarios de [omegaUp](https://omegaup.org), una organización
 sin fines de lucro. Además del esfuerzo de nuestros voluntarios, administrar este concurso
 requiere de recursos financieros: por ejemplo, para solventar los gastos de transporte
-de la delegación mexicana a la Olimpiada Europea Femenina de Informática.
+de la delegación mexicana a la Olimpiada Europea Femenil de Informática.
 
 Tu donación nos acerca a cumplir nuestra meta. Hay dos formas de donar directamente
 a la OFMI:
