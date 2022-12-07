@@ -22,6 +22,7 @@ minima:
 header_pages:
  - dona.md
  - faq.md
+ - material.md
  - resultados.md
  - conducta.md
  - reglamento.md
