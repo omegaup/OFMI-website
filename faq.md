@@ -6,15 +6,15 @@ layout: page
 
 ## ¿Quiénes pueden participar?
 
-La convocatoria de la OFMI está abierta para cualquier mujer o persona no binaria mexicana o que radique en México y que durante enero-junio 2022 esté inscrita en alguna escuela estudiando cualquier grado de primaria, secundaria o bachillerato.
+La convocatoria de la OFMI está abierta para cualquier mujer o persona no binaria mexicana o que radique en México y que durante enero-junio 2023 esté inscrita en alguna escuela estudiando cualquier grado de primaria, secundaria o bachillerato.
 
 ## ¿Cuándo es la fecha límite para registrarme?
 
-2 de enero de 2022.
+29 de enero de 2023.
 
 ## ¿Cuándo son los exámenes?
 
-22 y 23 de enero de 2022. Cada examen empieza a las 11:00 am y termina a las 16:00 (hora del centro del país).
+11 y 12 de febrero de 2023 Cada examen empieza a las 11:00 am y termina a las 16:00 (hora del centro del país).
 
 ## ¿Puedo participar si no sé programar?
 
@@ -40,8 +40,3 @@ Las participantes deben llenar su propio registro.
 ## ¿Dónde puedo contactarlos si tengo más dudas?
 
 Puedes escribirnos al correo [ofmi@omegaup.com](mailto:ofmi@omegaup.com) o en el [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG).
-
-También te recomendamos que te unas a una de las sesiones informativas:
-
-* [domingo 5 de diciembre 11:00 am (horario del centro del país) vía zoom](https://zoom.us/j/98969742539?pwd=MEl6ZVRzNzkrUjhpNk85NGowbGhpdz09)
-* [sábado 11 de diciembre 5:00 pm (horario del centro del país) vía zoom](https://zoom.us/j/97862872695?pwd=R1JZMlNLTGVPUDJqcjgrTks1NTdudz09)
