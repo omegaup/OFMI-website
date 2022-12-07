@@ -1,5 +1,5 @@
 ---
-title: Reglamento de la 1a Olimpiada Femenil Mexicana de Informática
+title: Reglamento de la Olimpiada Femenil Mexicana de Informática
 navtitle: Reglamento
 layout: page
 ---
