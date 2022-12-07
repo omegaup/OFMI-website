@@ -11,7 +11,7 @@ Te recomendamos que hagas los siguientes cursos que encuentras en omegaUp:
 * [Introducción a Algoritmos - Parte II](https://omegaup.com/course/introduccion_a_algoritmos_ii/)
 * [Curso OMI](https://omegaup.com/course/Curso-OMI/)
 
-Para temas más avanzados puedes checar los vídeos de clases grabadas, el material de la clase y lista de problemas recomendados por tema en [esta carpeta](https://docs.google.com/spreadsheets/d/1yHXa8pO6dUvF6OaHOe2uWStF52D6wW4LxMpNGLZGZm0/edit#gid=235996746).
+Para temas más avanzados puedes checar los vídeos de clases grabadas, el material de la clase y lista de problemas recomendados por tema en [esta carpeta](https://drive.google.com/drive/folders/1fAYZI4HdUZpL1Iuj57mrlia3idjd9-S0?usp=share_link).
 
 ## Ediciones pasadas
 
