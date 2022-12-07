@@ -36,7 +36,7 @@ Te recomendamos que hagas los siguientes cursos que encuentras en omegaUp:
 * [Introducción a Algoritmos - Parte II](https://omegaup.com/course/introduccion_a_algoritmos_ii/)
 * [Curso OMI](https://omegaup.com/course/Curso-OMI/)
 
-* [Aquí puedes encontrar más material] (../material)
+* [Aquí puedes encontrar más material](../material)
 
 ## Dudas
 
