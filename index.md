@@ -1,27 +1,50 @@
 ---
 layout: page
-title: Olimpiada Femenil Mexicana de Informática
-navtitle: EGOI 2022
+title: Convocatoria a la 2a Olimpiada Femenil Mexicana de Informática
+navtitle: OFMI 2023
 ---
 
-La OFMI es un concurso nacional para mujeres y personas no binarias que tengan interés en aprender a programar para resolver problemas lógico-matemáticos.
+OmegaUp convoca a estudiantes inscritas en nivel básico y medio superior a participar en la 2a Olimpiada Femenil Mexicana de Informática (OFMI) que se llevará a cabo en línea el sábado 11 y domingo 12 de febrero de 2023.
 
-La primera OFMI tuvo lugar a principios de 2022, seguida de un proceso de entrenamiento y selección para determinar a la delegación mexicana para la
-[Olimpiada Femenil Europea de Informática (EGOI)](https://egoi.ch/).
+La OFMI es un concurso nacional para mujeres y personas no-binarias que tengan interés en aprender a programar para resolver problemas lógico-matemáticos.
 
-# ¡Rumbo a la EGOI 2022!
+El objetivo de la OFMI es promover el interés en la informática entre las mujeres y desarrollar su potencial para la programación competitiva dentro de una comunidad respetuosa e incluyente. Por medio de la competencia se seleccionarán a las 4 mejores competidoras que representarán a México en la Olimpiada Femenil Europea de Informática ([EGOI](http://egoi.org/)) en 2023. En 2023 la participación de México en la EGOI será de forma remota.
 
-Ya tenemos a la delegación que representará este año a México en Turquía, del 16 al 23 de octubre en la [EGOI 2022](https://ubilo.tubitak.gov.tr/egoi2022/).
-Conoce a las 4 competidoras:
 
-![Delegación Mexicana a la Segunda Olimpiada Femenil Europea en Informática, a celebrarse en Turquía en 2022.](assets/egoi2022.png)
+## Requisitos y condiciones
 
-## Acerca de la EGOI
+* Ser mujer o un género minoritario.
+* Haber nacido después del 1 de julio de 2004.
+* Tener nacionalidad mexicana o radicar en México y estar dispuesta a representar internacionalmente a México.
+* Estar inscrita en una institución de nivel básico o medio superior con una carga curricular completa en el sistema educativo mexicano.
+* Estar cursando como máximo nivel medio superior durante marzo de 2023.
+* Registrarse en [la página de registro](https://forms.gle/9TSGiy2LXPsh6XJx9).
+* Leer y cumplir con el [reglamento oficial](../reglamento).
 
-La [Olimpiada Femenil Europea de Informática](https://egoi.org/) es una competencia internacional para estudiantes pre-universitarias interesadas en las ciencias de la computación. La olimpiada consiste en 2 exámenes donde las participantes resuelven problemas de algoritmia. Cada pais puede mandar a una delegación de 4 competidoras menores de 20 años y 2 entrenadores.
+## Etapas de la OFMI
 
-El objetivo de la EGOI es promover el interés de la mujeres en las ciencias de la computación con el fin de reducir la brecha de género que existe tanto en las escuelas como en la industria.
+* **Registro**: Las concursantes deberán inscribirse usando el [formulario de registro](https://forms.gle/9TSGiy2LXPsh6XJx9) a más tardar el 29 de enero de 2023.
+* **Examen nacional por internet**: Las concursantes deberán presentar los exámenes el 11 y 12 de febrero de 2023. Cada examen empieza a las 11:00 am y termina a las 16:00 (hora del centro del país).
+* **Exámenes y preparación**: Las 30 concursantes con las puntuaciones más altas participarán en una serie de entrenamientos y exámenes entre marzo y mayo para seleccionar a las 4 que representarán a México en la 3a EGOI. (Máximo 3 por estado).
 
-**Animar a las mujeres jóvenes a participar**: El estereotipo de que las ingenierías y carreras de las ciencias de la computación son solo para hombre persiste en nuestra cultura. Muchas jóvenes no consideran siquiera participar aun que tengan el talento. La olimpiada se creó para que las chicas se sientan incluidas, esto les permite sentirse consideradas y les da la confianza de participar con otras jóvenes que comparten sus intereses.
+## ¿Cómo me puedo preparar?
 
-**Crear modelos femeninos a seguir**: Las participantes conocen a otras científicas informáticas y pueden encontrar modelos femeninos a seguir. Esto es importante, ya que la mayoría de las personas prominentes en la informática son hombres (por ejemplo, profesores, emprendedores y divulgadores de la ciencia).
+Te recomendamos que hagas los siguientes cursos que encuentras en omegaUp:
+
+* [Introducción a C++](https://omegaup.com/course/introduccion_a_cpp/)
+* [Introducción a Algoritmos - Parte I](https://omegaup.com/course/introduccion_a_algoritmos/)
+* [Introducción a Algoritmos - Parte II](https://omegaup.com/course/introduccion_a_algoritmos_ii/)
+* [Curso OMI](https://omegaup.com/course/Curso-OMI/)
+
+De igual manera, puedes practicar con los exámenes de la edición pasada:
+* [OFMI 2022 - Día 1](https://omegaup.com/arena/OFMI2022DIA1/#problems)
+* [OFMI 2022 - Día 2](https://omegaup.com/arena/OFMI2022DIA2/#problems)
+
+* [Aquí puedes encontrar más material](../material)
+
+## Dudas
+
+Adicionalmente, te invitamos a unirte al [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG) para que puedas platicar con los entrenadores y ex participantes para que te ayuden con dudas que puedas tener. También puedes escribir al correo [ofmi@omegaup.com](mailto:ofmi@omegaup.com).
+
+Atentamente
+Departamento de Concursos de Programación de omegaUp
