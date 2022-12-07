@@ -5,7 +5,7 @@ layout: page
 ---
 La 1a edición de la OFMI se llevará a cabo en línea.
 
-La convocatoria de la OFMI está abierta para cualquier mujer o persona no binaria mexicana o que radique en México y que durante enero-junio 2022 esté inscrita en alguna escuela estudiando cualquier grado de primaria, secundaria o bachillerato.
+La convocatoria de la OFMI está abierta para cualquier mujer o persona no binaria mexicana o que radique en México y que durante enero-junio 2023 esté inscrita en alguna escuela estudiando cualquier grado de primaria, secundaria o bachillerato.
 
 ### Competencia
 
@@ -57,7 +57,7 @@ Las participantes deberán subir sus videos a la liga que se les proporcionará 
 
 ### Examen de Práctica
 
-Existirá un [examen de práctica](https://omegaup.com/arena/OFMI2022Practica/), el cual estará abierto desde el 4 de diciembre de 2021 hasta el 20 de enero de 2022. El objetivo de este examen es que las participantes se familiaricen con la plataforma y con la forma de hacer envíos de código, envío de dudas con el sistema de clarificaciones, que hagan pruebas de video y poder solicitar ayuda para solucionar problemas antes de la competencia.
+Existirá un [examen de práctica](https://omegaup.com/arena/OFMI2023Practica/#problems), el cual estará abierto desde el 3 de diciembre de 2022 hasta el 5 de febrero de 2023. El objetivo de este examen es que las participantes se familiaricen con la plataforma y con la forma de hacer envíos de código, envío de dudas con el sistema de clarificaciones, que hagan pruebas de video y poder solicitar ayuda para solucionar problemas antes de la competencia.
 
 ### Dudas y Clarificaciones
 
@@ -103,6 +103,8 @@ Cuando el contador llegue a 0, termina el tiempo para resolver el examen y la pl
 
 ### Descalificación
 
+El comité organizador se reserva el derecho de descalificar a cualquier participante que, a su criterio, considere haya intentado subvertir la organización o conducción propia del concurso, incluyendo incumplir con las reglas del concurso o los criterios de elegibilidad para este.
+
 Durante la competencia, las participantes:
 
 * no deberán iniciar sesión en alguna otra cuenta de omegaUp que no sea la asignada para el concurso;
@@ -112,6 +114,10 @@ Durante la competencia, las participantes:
 * no deberán utilizar más de una pantalla activa. En caso de utilizar un monitor externo, la pantalla de la laptop deberá permanecer apagada.
 
 En caso de que alguna participante realice cualquiera de las acciones anteriormente mencionadas, se considerará trampa y puede resultar en descalificación.
+
+### Verificación de elegibilidad
+
+El comité organizador se reserva el derecho de verificar a su satisfacción la elegibilidad de cualquier participante, y tener el último criterio sobre cualquier disputa relacionada a esta. Al registrarte, estás de acuerdo con proveer al comité cualquier prueba de elegibilidad de así pedirse. La falta de respuesta a tal petición, de ocurrir, debe recibirse durante los siguientes 5 días naturales de su realización, o resultará en la descalificación del concurso y la pérdida de cualquier premio o derecho relacionado con la participación en este.
 
 ### Código de conducta
 
@@ -131,6 +137,6 @@ Terminando el examen, se publicarán los casos de prueba para que las participan
 
 Los casos de prueba se publicarán terminando el examen. Las participantes podrán usar sus cuentas de omegaUp para enviar otras soluciones después del examen. Estos envíos no serán considerados para los resultados del examen.
 
-Las participantes pueden solicitar apelaciones llenando [esta forma](https://forms.gle/SZMbVMvT5ids6gwZA) a más tardar tres horas después de que se publiquen los casos de prueba y las soluciones oficiales.
+Las participantes pueden solicitar apelaciones llenando [esta forma](https://forms.gle/p3Re5bYeJ9qMgaXY7) a más tardar tres horas después de que se publiquen los casos de prueba y las soluciones oficiales.
 
 El comité organizador revisará todas las apelaciones y notificará a las solicitantes su decisión. En caso de que la apelación resulte en una o más reevaluaciones, se notificará a todas las participantes. Las puntuaciones pueden subir o bajar como resultado de esta reevaluación. Se actualizarán las puntuaciones en donde se hayan publicado. Los cambios de puntuación derivados de esto no serán apelables.
