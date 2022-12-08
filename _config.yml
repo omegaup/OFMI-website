@@ -27,6 +27,7 @@ header_pages:
  - conducta.md
  - reglamento.md
  - convocatoria/index.md
+ - call-for-tasks.md
 
 # Build settings
 theme: minima
