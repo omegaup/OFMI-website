@@ -2,4 +2,12 @@
 
 ## ¿Cómo correr la página localmente?
 
-Asegúrate de tener instalado [Jekyll](https://jekyllrb.com/). Corre `bundle exec jekyll serve`
+- Mismo contenido que en ofmi.omegaup.com y aparte
+- Portal para las concursantes
+- Registro
+- Asignación de mentores
+- Consultar usuarios/contraseñas para concursos
+- Ver historial de participaciones
+- Calendario
+- Calendario de las olimpiadas
+- Ligas a otras olimpiadas
