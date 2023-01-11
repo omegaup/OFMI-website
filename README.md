@@ -1,6 +1,6 @@
 # OFMI-WEBSITE
 
-## ¿Cómo correr la página localmente?
+## ¿Qué es lo que queremos en la nueva versión de la página?
 
 - Mismo contenido que en ofmi.omegaup.com y aparte
 - Portal para las concursantes
