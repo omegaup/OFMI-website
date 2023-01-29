@@ -56,7 +56,7 @@ Las participantes deberán subir sus videos a la liga que se les proporcionará 
 
 ### Examen de Práctica
 
-Existirá un [examen de práctica](https://omegaup.com/arena/OFMI2023Practica/#problems), el cual estará abierto desde el 3 de diciembre de 2022 hasta el 5 de febrero de 2023. El objetivo de este examen es que las participantes se familiaricen con la plataforma y con la forma de hacer envíos de código, envío de dudas con el sistema de clarificaciones, que hagan pruebas de video y poder solicitar ayuda para solucionar problemas antes de la competencia.
+Existirá un [examen de práctica](https://omegaup.com/arena/OFMIPRACTICA2023/#problems), el cual estará abierto desde el 3 de diciembre de 2022 hasta el 5 de febrero de 2023. El objetivo de este examen es que las participantes se familiaricen con la plataforma y con la forma de hacer envíos de código, envío de dudas con el sistema de clarificaciones, que hagan pruebas de video y poder solicitar ayuda para solucionar problemas antes de la competencia.
 
 ### Dudas y Clarificaciones
 
