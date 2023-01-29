@@ -25,7 +25,7 @@ Puedes entrenar con los exámenes de la ediciones pasadas.
 
 Además de los problemas de entrada y salida estándar, en la OFMI habrán también problemas interactivos en donde la competidora tenga que implementar funciones específicas, sin necesidad de leer entrada.
 
-Te recomendamos ver [este vídeo](https://drive.google.com/drive/u/2/folders/13c6NeSDYTHe9XgIenNgLvgBqqYYnZEB3) sobre cómo interactuar con problemas de este estilo en este vídeo. También hacer el examen de práctica de la OFMI, que contiene problemas interactivos.
+Te recomendamos ver [este vídeo](https://drive.google.com/file/d/1GXYv1MhTV4oKcFZB1iP32sVH-SL_bWNn/view?usp=share_link) sobre cómo interactuar con problemas de este estilo en este vídeo. También hacer el examen de práctica de la OFMI, que contiene problemas interactivos.
 
 ## Dudas
 
