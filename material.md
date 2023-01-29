@@ -21,6 +21,12 @@ Puedes entrenar con los exámenes de la ediciones pasadas.
     * [Día 1](https://omegaup.com/arena/OFMI2022DIA1/#problems)
     * [Día 2](https://omegaup.com/arena/OFMI2022DIA2/#problems)
 
+### Problemas interactivos
+
+Además de los problemas de entrada y salida estándar, en la OFMI habrán también problemas interactivos en donde la competidora tenga que implementar funciones específicas, sin necesidad de leer entrada.
+
+Te recomendamos ver [este vídeo](https://drive.google.com/drive/u/2/folders/13c6NeSDYTHe9XgIenNgLvgBqqYYnZEB3) sobre cómo interactuar con problemas de este estilo en este vídeo. También hacer el examen de práctica de la OFMI, que contiene problemas interactivos.
+
 ## Dudas
 
 Te invitamos a unirte al [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG) para que puedas platicar con los entrenadores y ex participantes para que te ayuden con dudas que puedas tener. También puedes escribir al correo [ofmi@omegaup.com](mailto:ofmi@omegaup.com).
