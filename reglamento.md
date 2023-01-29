@@ -111,6 +111,7 @@ Durante la competencia, las participantes:
 * no deberán acceder a ninguna otra página o plataforma en internet que no sea el examen o el material de referencia permitido;
 * no deberán comunicarse con ninguna persona durante la competencia, a excepción del comité organizador;
 * no deberán utilizar más de una pantalla activa. En caso de utilizar un monitor externo, la pantalla de la laptop deberá permanecer apagada.
+* no deberán utilizar ninguna herramienta de inteligencia artificial para generar código (como Github Copilot o ChatGPT, entre otros). 
 
 En caso de que alguna participante realice cualquiera de las acciones anteriormente mencionadas, se considerará trampa y puede resultar en descalificación.
 
