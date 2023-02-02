@@ -36,6 +36,8 @@ Te recomendamos que hagas los siguientes cursos que encuentras en omegaUp:
 * [Introducción a Algoritmos - Parte II](https://omegaup.com/course/introduccion_a_algoritmos_ii/)
 * [Curso OMI](https://omegaup.com/course/Curso-OMI/)
 
+Para este año, te sugerimos que hagas el [**Examen Práctica 2 OFMI 2023**](https://omegaup.com/arena/OFMIPRACTICA2023/#problems).
+
 De igual manera, puedes practicar con los exámenes de la edición pasada:
 * [OFMI 2022 - Día 1](https://omegaup.com/arena/OFMI2022DIA1/#problems)
 * [OFMI 2022 - Día 2](https://omegaup.com/arena/OFMI2022DIA2/#problems)
