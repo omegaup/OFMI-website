@@ -18,8 +18,20 @@ Para temas más avanzados puedes checar los vídeos de clases grabadas, el mater
 Puedes entrenar con los exámenes de la ediciones pasadas.
 
 * OFMI 2022
-    * [Día 1](https://omegaup.com/arena/OFMI2022DIA1/#problems)
-    * [Día 2](https://omegaup.com/arena/OFMI2022DIA2/#problems)
+    * Día 1
+        * [Concurso en omegaUp](https://omegaup.com/arena/OFMI2022DIA1/#problems)
+        * [Casos de prueba, soluciones y explicaciones escritas](https://github.com/omegaup/ofmi-archive/tree/main/2022/dia-1)
+    * Día 2
+        * [Concurso en omegaUp](https://omegaup.com/arena/OFMI2022DIA2/#problems)
+        * [Casos de prueba, soluciones y explicaciones escritas](https://github.com/omegaup/ofmi-archive/tree/main/2022/dia-2)
+
+* OFMI 2023
+    * Día 1
+        * [Concurso en omegaUp](https://omegaup.com/arena/OFMI2023DIA1/#problems)
+        * [Casos de prueba, soluciones y explicaciones escritas](https://github.com/omegaup/ofmi-archive/tree/main/2023/dia-1)
+    * Día 2
+        * [Concurso en omegaUp](https://omegaup.com/arena/OFMI2023DIA2/#problems)
+        * [Casos de prueba, soluciones y explicaciones escritas](https://github.com/omegaup/ofmi-archive/tree/main/2023/dia-2)
 
 ### Problemas interactivos
 
