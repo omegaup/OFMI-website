@@ -14,7 +14,7 @@ Buscamos personas para:
 
 Requisitos:
 * No ser participante de la OFMI 2023.
-* Registrarse en esta [forma](https://docs.google.com/forms/d/e/1FAIpQLSdiYrqBvc2so-83QhRY1DvXzftUvPYY8-GnSuQmzttrg8pXiw/viewform).
+* Registrarse en esta [forma](https://forms.gle/Qt6sEPsfTDZEVThK6).
 
 
 Si tienes dudas nos puedes responder este correo o contactarnos en el [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG).
