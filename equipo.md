@@ -13,7 +13,7 @@ Buscamos personas para:
 * Desarrollar problemas y concursos (convertir las ideas a formato omegaUp).
 
 Requisitos:
-* No ser participante de la OFMI 2023.
+* No ser participante de la 3a OFMI.
 * Registrarse en esta [forma](https://forms.gle/Qt6sEPsfTDZEVThK6).
 
 
