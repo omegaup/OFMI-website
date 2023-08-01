@@ -6,15 +6,15 @@ layout: page
 
 ## ¿Quiénes pueden participar?
 
-La convocatoria de la OFMI está abierta para cualquier mujer o persona no binaria mexicana o que radique en México y que durante enero-junio 2023 esté inscrita en alguna escuela estudiando cualquier grado de primaria, secundaria o bachillerato.
+La convocatoria de la OFMI está abierta para cualquier mujer o persona no binaria mexicana o que radique en México y que durante enero-junio 2024 esté inscrita en alguna escuela estudiando cualquier grado de primaria, secundaria o bachillerato.
 
 ## ¿Cuándo es la fecha límite para registrarme?
 
-29 de enero de 2023.
+La convocatoria con las fechas se publicará pronto.
 
 ## ¿Cuándo son los exámenes?
 
-11 y 12 de febrero de 2023 Cada examen empieza a las 11:00 am y termina a las 16:00 (hora del centro del país).
+La convocatoria con las fechas se publicará pronto.
 
 ## ¿Puedo participar si no sé programar?
 
