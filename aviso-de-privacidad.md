@@ -32,7 +32,7 @@ Para llevar a cabo las finalidades descritas en el presente aviso de privacidad,
 * Correos electrónicos
 * Datos escolares
 
-Los usuarios que acceden las plataformas de OmegaUP, como son sitio web, zoom, usuarios registrados en formularios, discord, entre otras, de forma automática otorgan el consentimiento de que sus datos personales, para que sean tratados de conformidad con los términos y condiciones informados en el presente aviso de privacidad. 
+Los usuarios que acceden las plataformas de OmegaUp, como son sitio web, zoom, usuarios registrados en formularios, discord, entre otras, de forma automática otorgan el consentimiento de que sus datos personales, para que sean tratados de conformidad con los términos y condiciones informados en el presente aviso de privacidad. 
 
 En caso de que no desee que sus datos personales se utilicen para estos fines, escríbanos y siga el procedimiento descrito en la sección “Procedimiento para ejercer derechos del titular” incluida en este mismo aviso de privacidad.
 
@@ -45,7 +45,7 @@ Le informamos que sus datos personales no serán transferidos ni tratados por pe
 
 La información transmitida será debidamente resguardada, conservada y protegida con los medios tecnológicos y físicos adecuados a efecto de que se impida su pérdida, mal uso, alteración, acceso no autorizado y robo. Sólo tendrán acceso a la información aquellas personas estrictamente quienes han asumido el compromiso de mantener la información bajo un estricto orden de confidencialidad y seguridad.
 
-En caso de que los datos personales resguardados sean requeridos por una autoridad de cualquier índole ya sea por proceso legal, para responder a cualquier reclamo o acciones legales, o para proteger los derechos OmegaUP A.C. o sus clientes y el público, estos datos se podrán a su disposición dentro del estricto cumplimiento a la Ley.
+En caso de que los datos personales resguardados sean requeridos por una autoridad de cualquier índole ya sea por proceso legal, para responder a cualquier reclamo o acciones legales, o para proteger los derechos OmegaUp A.C. o sus clientes y el público, estos datos se podrán a su disposición dentro del estricto cumplimiento a la Ley.
 
 
 ## El uso de tecnologías de rastreo en nuestro portal de internet
