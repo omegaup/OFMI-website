@@ -29,6 +29,7 @@ header_pages:
  - convocatoria/index.md
  - call-for-tasks.md
  - equipo.md
+ - aviso-de-privacidad.md
 
 # Build settings
 theme: minima

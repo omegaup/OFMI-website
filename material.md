@@ -4,6 +4,9 @@ title: Material de preparación
 navtitle: Material
 ---
 
+En [esta carpeta](https://drive.google.com/drive/folders/1fAYZI4HdUZpL1Iuj57mrlia3idjd9-S0?usp=share_link) puedes encontrar los entrenamientos que se han impartido en ediciones anteriores. En la carpeta también se estarán publicando las grabaciones y material de los entrenamientos de preparación de la 3<sup>a</sup> OFMI.
+
+
 Te recomendamos que hagas los siguientes cursos que encuentras en omegaUp:
 
 * [Introducción a C++](https://omegaup.com/course/introduccion_a_cpp/)
@@ -11,19 +14,10 @@ Te recomendamos que hagas los siguientes cursos que encuentras en omegaUp:
 * [Introducción a Algoritmos - Parte II](https://omegaup.com/course/introduccion_a_algoritmos_ii/)
 * [Curso OMI](https://omegaup.com/course/Curso-OMI/)
 
-Para temas más avanzados puedes checar los vídeos de clases grabadas, el material de la clase y lista de problemas recomendados por tema en [esta carpeta](https://drive.google.com/drive/folders/1fAYZI4HdUZpL1Iuj57mrlia3idjd9-S0?usp=share_link).
 
 ## Ediciones pasadas
 
 Puedes entrenar con los exámenes de la ediciones pasadas.
-
-* OFMI 2022
-    * Día 1
-        * [Concurso en omegaUp](https://omegaup.com/arena/OFMI2022DIA1/#problems)
-        * [Casos de prueba, soluciones y explicaciones escritas](https://github.com/omegaup/ofmi-archive/tree/main/2022/dia-1)
-    * Día 2
-        * [Concurso en omegaUp](https://omegaup.com/arena/OFMI2022DIA2/#problems)
-        * [Casos de prueba, soluciones y explicaciones escritas](https://github.com/omegaup/ofmi-archive/tree/main/2022/dia-2)
 
 * OFMI 2023
     * Día 1
@@ -32,6 +26,13 @@ Puedes entrenar con los exámenes de la ediciones pasadas.
     * Día 2
         * [Concurso en omegaUp](https://omegaup.com/arena/OFMI2023DIA2/#problems)
         * [Casos de prueba, soluciones y explicaciones escritas](https://github.com/omegaup/ofmi-archive/tree/main/2023/dia-2)
+* OFMI 2022
+    * Día 1
+        * [Concurso en omegaUp](https://omegaup.com/arena/OFMI2022DIA1/#problems)
+        * [Casos de prueba, soluciones y explicaciones escritas](https://github.com/omegaup/ofmi-archive/tree/main/2022/dia-1)
+    * Día 2
+        * [Concurso en omegaUp](https://omegaup.com/arena/OFMI2022DIA2/#problems)
+        * [Casos de prueba, soluciones y explicaciones escritas](https://github.com/omegaup/ofmi-archive/tree/main/2022/dia-2)
 
 ### Problemas interactivos
 
