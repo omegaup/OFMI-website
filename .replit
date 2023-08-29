@@ -1,0 +1,29 @@
+run = "bundle exec jekyll serve --host=0.0.0.0 --watch"
+hidden = [".bundle"]
+
+[env]
+JEKYLL_ENV = "replit"
+
+[nix]
+channel = "stable-22_11"
+
+[packager]
+language = "ruby"
+
+[packager.features]
+packageSearch = true
+guessImports = true
+
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix", "README.md"]
+
+[languages]
+
+[languages.ruby]
+pattern = "**/*.rb"
+
+[languages.ruby.languageServer]
+start = "solargraph stdio"
+
+[deployment]
+run = ["sh", "-c", "bundle exec jekyll serve"]
