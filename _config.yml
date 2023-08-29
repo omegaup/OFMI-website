@@ -42,3 +42,6 @@ google_analytics: G-3D2YB1702J
 
 whitelist:
   - jekyll-redirect-from
+
+exclude:
+  - .cache/ # For replit running
