@@ -15,6 +15,4 @@ Puedes revisar los exámenes de años anteriores de la OMI/OFMI para tener una i
 
 En este momento no es necesario tener descripciones finales ni casos de prueba. Solo necesitamos una idea general del problema.
 
-Para proponer un problema debes llenar 
-
 Si tienes cualquier duda, escríbenos a [ofmi@omegaup.com](mailto:ofmi@omegaup.com) o en el [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG).
