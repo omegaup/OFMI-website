@@ -3,7 +3,8 @@ title: Propuestas de problemas
 navtitle: Propuestas de problemas
 layout: page
 ---
-Si tienes alguna idea que pudiera convertirse en problema para el concurso, puedes enviarla hasta el 17 de septiembre (puede ser más de una). En caso de que alguna de tus ideas sea seleccionada se te informará.
+
+Si tienes alguna idea que pudiera convertirse en problema para el concurso, puedes enviarla llenando [este formulario](https://forms.gle/DBw4Y6PVxMyLDd2z6). En caso de que alguna de tus ideas sea seleccionada se te informará.
 
 Lo que buscamos en un problema son las siguientes cualidades:
  * Que sea inédito; es decir, que no sea exactamente igual a alguno que ya se haya publicado. Sí se puede compartir elementos siempre y cuando tengan diferencias considerables. (Cambiar solamente la historia/descripción del problema no es una diferencia considerable.)
@@ -14,6 +15,6 @@ Puedes revisar los exámenes de años anteriores de la OMI/OFMI para tener una i
 
 En este momento no es necesario tener descripciones finales ni casos de prueba. Solo necesitamos una idea general del problema.
 
-Para proponer un problema debes llenar [este formulario](https://forms.gle/kdmAZgEAHJsZXv6W7) por cada problema que quieras que consideremos.
+Para proponer un problema debes llenar 
 
 Si tienes cualquier duda, escríbenos a [ofmi@omegaup.com](mailto:ofmi@omegaup.com) o en el [servidor de Discord de omegaUp](https://discord.gg/gn6GTb4rfG).
