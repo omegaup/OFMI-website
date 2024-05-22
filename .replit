@@ -1,4 +1,4 @@
-run = "bundle exec jekyll serve --host=0.0.0.0 --watch"
+run = "bundle exec jekyll serve --host=0.0.0.0 --livereload --watch"
 hidden = [".bundle"]
 entrypoint = "index.md"
 
@@ -27,8 +27,14 @@ pattern = "**/*.rb"
 start = "solargraph stdio"
 
 [deployment]
-run = ["sh", "-c", "bundle exec jekyll serve"]
+deploymentTarget = "static"
+publicDir = "_site"
+build = ["sh", "-c", "bundle exec jekyll build"]
 
 [[ports]]
 localPort = 4000
 externalPort = 80
+
+[[ports]]
+localPort = 35729
+externalPort = 3000
