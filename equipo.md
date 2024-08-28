@@ -22,4 +22,4 @@ Requisitos:
 * No ser participante de la 4a OFMI.
 * Registrarse en [esta forma](https://forms.gle/JrJpJ8GryFySKcyN8)
 
-Si tienes dudas nos puedes mandar un correo a [ofmi@omegaup.com](ofmi@omegaup.com)
+Si tienes dudas nos puedes mandar un correo a [ofmi@omegaup.com](mailto:ofmi@omegaup.com)
