@@ -20,6 +20,10 @@ Buscamos personas para:
 
 Requisitos:
 * No ser participante de la 4a OFMI.
-* Registrarse en [esta forma](https://forms.gle/JrJpJ8GryFySKcyN8)
+
+Registro:
+1. Crea una cuenta en [ofmi-website](https://ofmi-website.replit.app/)
+2. Inicia sesión
+3. Registrarse en [esta liga](https://ofmi-website.replit.app/registro?role=VOLUNTEER)
 
 Si tienes dudas nos puedes mandar un correo a [ofmi@omegaup.com](mailto:ofmi@omegaup.com)
