@@ -33,4 +33,8 @@ build = ["sh", "-c", "bundle exec jekyll build"]
 
 [[ports]]
 localPort = 4000
+externalPort = 3000
+
+[[ports]]
+localPort = 35729
 externalPort = 80
