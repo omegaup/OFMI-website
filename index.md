@@ -1,27 +1,78 @@
 ---
 layout: page
-title: Olimpiada Femenil Mexicana de Informática
-navtitle: EGOI 2024
+title: Convocatoria a la 4a Olimpiada Femenil Mexicana de Informática
+navtitle: Convocatoria 4ra OFMI
 ---
 
-La OFMI es un concurso nacional para mujeres y personas no binarias que tengan interés en aprender a programar para resolver problemas lógico-matemáticos.
+OmegaUp convoca a estudiantes inscritas en nivel básico y medio superior a participar en la 4a Olimpiada Femenil Mexicana de Informática (OFMI) que se llevará a cabo en línea el sábado 1o y domingo 2 de febrero de 2025.
 
-La 3ra OFMI tuvo lugar en noviembre de 2023, seguida de un proceso de entrenamiento y selección para determinar a la delegación mexicana para la
-[Olimpiada Femenil Europea de Informática (EGOI)](https://egoi.org/).
+La OFMI es un concurso nacional para mujeres y personas no-binarias que tengan interés en aprender a programar para resolver problemas lógico-matemáticos.
 
-# ¡Rumbo a la EGOI 2024!
+El objetivo de la OFMI es promover el interés en la informática entre las mujeres y desarrollar su potencial para la programación competitiva dentro de una comunidad respetuosa e incluyente y lograr aumentar el número de participantes en la competencia mixta.
 
-Ya tenemos a la delegación que representará este año a México en Países Bajos, del 21 al 27 de julio en la [EGOI 2024](https://egoi2024.nl/).
-Conoce a las 4 competidoras:
+Después de la 4ª OFMI habrá una serie de entrenamientos y exámenes de los cuales se seleccionará a las mejores competidoras que podrán participar en más competencias representando a la OFMI, a su estado, a su escuela o a México, por ejemplo, en la 5ª Olimpiada Femenil Europea de Informática (EGOI) en 2025 (sede por confirmar). La participación de México depende de la logística del país sede. En caso de no haber cupo, estamos comprometidos en brindar oportunidades de participación en competencias internacionales de índole similar.
 
-![Delegación Mexicana a la Segunda Olimpiada Femenil Europea en Informática, a celebrarse en Países Bajos en 2024.](/assets/egoi2024.png)
+## Requisitos y condiciones
 
-## Acerca de la EGOI
+- Ser mujer o un género minoritario.
+- Haber nacido después del 1o de julio de 2005.
+- Tener nacionalidad mexicana y/o radicar en México y estar dispuesta a representar internacionalmente a México.
+- Estar inscrita en una institución de nivel básico o medio superior con una carga curricular completa.
+- Estar cursando como máximo nivel medio superior durante marzo de 2025.
+- Leer y cumplir con el <a href="/reglamento" target="_blank">reglamento oficial</a>.
+- Registrarte siguiendo los pasos de la siguiente sección <i>Registro</i>.
 
-La *Olimpiada Femenil Europea de Informática* es una competencia internacional para estudiantes pre-universitarias interesadas en las ciencias de la computación. La olimpiada consiste en 2 exámenes donde las participantes resuelven problemas de algoritmia. Cada país puede mandar a una delegación de 4 competidoras menores de 20 años y 2 entrenadores.
+## Registro
 
-El objetivo de la EGOI es promover el interés de la mujeres en las ciencias de la computación con el fin de reducir la brecha de género que existe tanto en las escuelas como en la industria.
+Para registrarte al concurso sigue los siguientes pasos:
 
-**Animar a las mujeres jóvenes a participar**: El estereotipo de que las ingenierías y carreras de las ciencias de la computación son solo para hombre persiste en nuestra cultura. Muchas jóvenes no consideran siquiera participar aun que tengan el talento. La olimpiada se creó para que las chicas se sientan incluidas, esto les permite sentirse consideradas y les da la confianza de participar con otras jóvenes que comparten sus intereses.
+1. Crear una cuenta con tu correo en [esta página](/signup)
+2. Al crear la cuenta, recibirás un correo como el que se muestra en la imagen. En caso de no recibirlo, manda un correo a ofmi@omegaup.com
+   ![](/convocatoria/email.jpeg)
+3. Verifica tu correo usando la liga que recibiste en el paso anterior.
+4. [Inicia sesión](/login)
+5. Regístrate como participante en la 4a OFMI en [esta página](/registro)
 
-**Crear modelos femeninos a seguir**: Las participantes conocen a otras científicas informáticas y pueden encontrar modelos femeninos a seguir. Esto es importante, ya que la mayoría de las personas prominentes en la informática son hombres (por ejemplo, profesores, emprendedores y divulgadores de la ciencia).
+## Etapas de la OFMI
+
+- **Registro**: Las concursantes deberán inscribirse siguiendo los pasos explicados en la sección anterior a más tardar el 18 de octubre de 2024.
+- **Entrenamientos pre nacional**: Habrá una serie de entrenamientos de preparación para todas las participantes registradas. Los detalles de los entrenamientos están en la sección <i>Entrenamientos para la 4ª OFMI</i>.
+- **Examen nacional por internet**: Las concursantes deberán presentar los exámenes el 1º y 2 de febrero de 2025. Cada examen empieza a las 11:00 am y termina a las 16:00 (hora del centro del país).
+- **Entrenamientos post nacional**: Las mejores concursantes con las puntuaciones más altas participarán en una serie de entrenamientos y exámenes entre marzo y mayo de 2025 para formar la o las selecciones que participarán en más concursos. (Máximo 3 por estado)
+
+## Entrenamientos para la 4a OFMI
+
+En esta edición ofreceremos sesiones de entrenamiento grupales en línea a partir del día 24 de octubre de 2024. Se llevarán a cabo los jueves de 19:00 a 21:00 hrs hora del centro de México.
+
+Los entrenamientos serán por videollamada y todos serán grabados para las participantes que no puedan asistir en vivo.
+
+Los temas que se abordarán son:
+
+- Conceptos introductorios a la programación
+  - Qué es un problema, un algoritmo, un programa, un bloque de código.
+  - Cómo resolver un problema
+- Introducción general al concurso la plataforma omegaUp y al lenguaje C++
+  - Operadores aritméticos
+  - Estructura de control IF
+  - Estructura de control WHILE
+- Arreglos
+- Funciones
+- Ordenamiento
+
+## ¿Cómo me puedo preparar?
+
+Participa en los Entrenamientos para la 4a OFMI
+
+Consulta nuestra página con el <a href="/material" target="_blank">material recomendado</a>
+
+En caso que ya sepas programar, para familiarizarte con la plataforma de OmegaUp y el tipo de problemas del concurso, te recomendamos realizar el concurso de práctica: https://omegaup.com/arena/PRACTICA3aOFMI
+
+De igual manera, puedes practicar con los exámenes de las ediciones pasadas que puedes encontrar <a href="/material" target="_blank">aquí</a>.
+
+## Dudas
+
+Cualquier duda que tengas de la convocatoria, nos puedes escribir al correo [ofmi@omegaup.com](mailto:ofmi@omegaup.com)
+
+Atentamente
+
+Departamento de Concursos de Programación de omegaUp
