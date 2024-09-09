@@ -26,12 +26,12 @@ Después de la 4ª OFMI habrá una serie de entrenamientos y exámenes de los cu
 
 Para registrarte al concurso sigue los siguientes pasos:
 
-1. Crear una cuenta con tu correo en [esta página](/signup)
+1. Crear una cuenta con tu correo en [esta página](https://ofmi-website.replit.app/signup)
 2. Al crear la cuenta, recibirás un correo como el que se muestra en la imagen. En caso de no recibirlo, manda un correo a ofmi@omegaup.com
-   ![](/convocatoria/email.jpeg)
+   ![](/assets/convocatoria/email.jpeg)
 3. Verifica tu correo usando la liga que recibiste en el paso anterior.
-4. [Inicia sesión](/login)
-5. Regístrate como participante en la 4a OFMI en [esta página](/registro)
+4. [Inicia sesión](https://ofmi-website.replit.app/login)
+5. Regístrate como participante en la 4a OFMI en [esta página](https://ofmi-website.replit.app/registro)
 
 ## Etapas de la OFMI
 
